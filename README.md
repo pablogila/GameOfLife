@@ -1,4 +1,3 @@
-#GameOfLife
 El Juego de la Vida de Conway implementado en python.  
 Más información:  https://twitter.com/pablogilah/status/1249296043612737536
 
