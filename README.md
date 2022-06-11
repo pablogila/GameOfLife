@@ -9,7 +9,10 @@ Ayuda de teclas:
 - T:         Cambiar velocidad
 
 
-![GameOfLife1](https://user-images.githubusercontent.com/63462062/173201504-01137271-7ae3-4ee4-8b88-d1bdde614369.png)
+Capturas de pantalla:
+
+
 ![GameOfLife2](https://user-images.githubusercontent.com/63462062/173201505-005dcfa1-1590-4944-9418-44744eb31e15.png)
 ![GameOfLife3](https://user-images.githubusercontent.com/63462062/173201506-0af164a4-1932-4652-97ba-745832fe846c.png)
 ![GameOfLife4](https://user-images.githubusercontent.com/63462062/173201507-caf3ac14-6c2e-4678-ac59-234362a881ff.png)
+![GameOfLife1](https://user-images.githubusercontent.com/63462062/173201504-01137271-7ae3-4ee4-8b88-d1bdde614369.png)
