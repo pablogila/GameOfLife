@@ -8,6 +8,7 @@ Ayuda de teclas:
 - ESPACIO:   Pausa
 - T:         Cambiar velocidad
 
+\TITLE {Capturas de pantalla}
 
 Capturas de pantalla:
 
