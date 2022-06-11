@@ -9,6 +9,10 @@ Ayuda de teclas:
 - T:         Cambiar velocidad
 
 
+Descarga y ejecuta el archivo GameOfLife.py
+
+Quizás necesites instalar algunos paquetes de python (pygame, numpy, time, random)
+
 
 Capturas de pantalla:
 
