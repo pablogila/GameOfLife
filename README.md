@@ -10,7 +10,7 @@ Ayuda de teclas:
 - ESPACIO:   Pausa
 - T:         Cambiar velocidad
 
-Quizás necesites instalar algunos paquetes de python (pygame, numpy, time, random)
+Quizás necesites instalar algunos paquetes de python (pygame, numpy, time, random). Quizás también necesites instalar python.
 
 
 Capturas de pantalla:
