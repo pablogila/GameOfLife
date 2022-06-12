@@ -5,7 +5,8 @@ import random as rm
 
 """
 Este es el Juego de la Vida de John Conway
-Más información:  https://twitter.com/pablogilah/status/1249296043612737536
+Más información:  https://twitter.com/pablogilah/status/1249296043612737536/
+Nuevas versiones:  https://github.com/pablogila/GameOfLife/
 
 Ayuda de teclas:
 - CLIC:      cambiar estado de la celda
@@ -19,7 +20,7 @@ nxC, nyC = 70, 70
 height, width= 650, 650
 # Color de fondo, en RGB (0-255)
 bg = 0, 51, 160
-# Tiempo entre ciclos, en segundos
+# Tiempo entre ciclos, en segundos (pulsar la tecla T alterna entre este t y máxima velocidad)
 t = 0.1
 """#################################################"""
 
